@@ -1,7 +1,7 @@
 # Stage 3 – Technical Specification
 ## BUS-314 International Corporate Finance | Accounting & Performance Ratios
 
-**Analyst:** [Your Name]
+**Analyst:** [Lynne Tsutsuki]
 **Date:** April 2026
 **Model File:** BUS-314 Accounting & Performance Ratios – MASTER.xlsx
 
